@@ -1,0 +1,13 @@
+{
+  "name": "Debounce",
+  "keywords": "gpio, input, debounce",
+  "description": "ESP8266 GPIO",
+  "repository":
+  {
+    "type": "",
+    "url": ""
+  },
+  "frameworks": "arduino",
+  "platforms": "espressif",
+  "version": "0.10"
+}
